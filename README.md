@@ -10,7 +10,7 @@
 </code></pre>
 
 3. Run the server using 
-<pre><code>nodemon index.js
+<pre><code>npm start
 </code></pre>
 
 ( Your system should have node.js and mongoDB ) 
