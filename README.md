@@ -14,8 +14,9 @@
 </code></pre>
 
 4. Use PostMan to test the API. The documentation for the same is given below.
-<pre><code>https://documenter.getpostman.com/view/21705446/2s93CHtaFA
-</code></pre>
+
+https://documenter.getpostman.com/view/21705446/2s93CHtaFA
+
 
 ( Your system should have node.js and mongoDB ) 
 
